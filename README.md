@@ -12,7 +12,7 @@ A scalable URL shortening service built with Go, PostgreSQL, and Redis.
 ## Getting Started
 \`\`\`bash
 # Clone the repository
-git clone https://github.com/yourusername/url-shortener.git
+git clone https://github.com/shawgichan/url-shortener.git
 
 # Start services
 docker-compose up --build
