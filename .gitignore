@@ -1,0 +1,23 @@
+# Go files
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+go.work
+
+# Dependency directories
+vendor/
+
+# Environment files
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Build output
+bin/
+tmp/
