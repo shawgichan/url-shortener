@@ -19,7 +19,7 @@ docker-compose up --build
 \`\`\`
 
 ## Development
-- Golang 1.21+
+- Golang 1.23+
 - Docker
 - PostgreSQL
 - Redis
